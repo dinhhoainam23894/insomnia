@@ -1,0 +1,21 @@
+_id: req_1f015d3bfc694b39b02585c6c8366462
+type: Request
+parentId: wrk_f78a07ccc58244f4b2a424304f5040ec
+modified: 1607489104556
+created: 1607489099443
+url: https://api.github.com/users/defunkt
+name: tesst 2
+description: ""
+method: GET
+body: {}
+parameters: []
+headers: []
+authentication: {}
+metaSortKey: -1607489099443
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global
